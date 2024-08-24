@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""to generate a .tgz archive from the contents of the web_static folder"""
+"""Fabric script that generates a
 from invoke import task
 from datetime import datetime
 import os
